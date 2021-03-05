@@ -3,4 +3,4 @@
 
 to add this project please add following podfile into to your project:
 
-pod 'Alamofire',
+pod 'frameworkForUse',
